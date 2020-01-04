@@ -1,2 +1,2 @@
 # FAQslider
-FAQslider developed using html,css,vanilla js.
+FAQslider developed using html,css,js,jquery.
